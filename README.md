@@ -59,7 +59,7 @@ print(list_of_nums)
 ```
 
 ## Output:
-![](41.jpeg)
+![](41.png)
 ![](42.png)
 
 ## Result:
